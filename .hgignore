@@ -1,0 +1,19 @@
+syntax: glob
+
+# Repositories
+coveragepy
+cpython
+devguide
+peps
+
+# Downloads
+coverage-*
+mercurial-*
+tortoisehg-*
+
+# Generated
+coverage_report
+venv
+
+# Misc
+__pycache__
